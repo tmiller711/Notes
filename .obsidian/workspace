@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "10b5906f607be17c",
+    "type": "split",
+    "children": [
+      {
+        "id": "37979619fb566229",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Procedural Programming.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81baef57482a2aca",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e110f08335c85e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a677428f11759aca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9236aed517bacdc7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d282b323eaeb3e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "25683fd7ce6202ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e3f61a4a8b1fd98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Procedural Programming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "37979619fb566229",
+  "lastOpenFiles": [
+    "Procedural Programming.md",
+    "Python.md",
+    "Array.md",
+    "Singly-Linked Lists.md",
+    "Hash Table.md",
+    "tash table.md",
+    "tash tables.md",
+    "Hash Function.md",
+    "Data Types.md",
+    "Linked List.md"
+  ]
+}
