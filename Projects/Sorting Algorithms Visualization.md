@@ -1,0 +1,5 @@
+- Create a function for each algorithm and pass those functions the array of numbers
+- Algorithms to implement:
+	- Selection sort
+	- Bubble sort
+	- Merge sort

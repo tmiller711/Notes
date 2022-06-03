@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Procedural Programming.md",
+            "file": "Investmenting/How to analysis stocks.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "bdf6a084392269e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Investmenting/Companies/MP.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Procedural Programming.md",
+                "file": "Investmenting/Companies/MP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,19 +96,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "37979619fb566229",
+  "active": "bdf6a084392269e7",
   "lastOpenFiles": [
-    "Procedural Programming.md",
-    "Python.md",
-    "Array.md",
-    "Singly-Linked Lists.md",
-    "Hash Table.md",
-    "tash table.md",
-    "tash tables.md",
-    "Hash Function.md",
-    "Data Types.md",
-    "Linked List.md"
+    "Investmenting/Companies/MP.md",
+    "Investmenting/How to analysis stocks.md",
+    "Projects/Project Ideas.md",
+    "Investmenting/Companies/Ford.md",
+    "Books/Books.md",
+    "Books/To Read.md",
+    "Projects/PPChain2 Outline.md",
+    "PPChain2 Ou.md",
+    "Projects/PPChain 2.0.md",
+    "Investmenting/Tools for stock analysis.md"
   ]
 }

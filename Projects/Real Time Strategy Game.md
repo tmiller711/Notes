@@ -1,0 +1,1 @@
+- Each person has their base/empire and try to take over the map/other people

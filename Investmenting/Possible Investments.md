@@ -1,0 +1,3 @@
+- Look into hood. They are adding a lot of features
+- Nio revenue growth?
+- Baba is way down but very profitable

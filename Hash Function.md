@@ -1,8 +1,0 @@
-- A good hash function should:
-	- Use only data being hashed
-	- Use all the data being hashed
-	- Be deterministic
-	- Uniformily distribute code
-	- Generate very different hash codes for very similiar data
-- Normally if you need to use a hash function you would just borrow one you find online
-- 
