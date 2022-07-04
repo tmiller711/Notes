@@ -1,3 +1,3 @@
-- Look into hood. They are adding a lot of features
 - Nio revenue growth?
 - Baba is way down but very profitable
+- RIOT blockchain and MARA. Riot just posted good earning but market didn't respond. I think they are overly scared because of the drop of Bitcoin. Also I think once Bitcoin goes back up RIOT will surge. Need to compare MARA to RIOT to see which one is better

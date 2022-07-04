@@ -1,3 +1,5 @@
 1. Art of War https://www.amazon.com/Art-War-Complete-Text-Commentaries/dp/1590300548/ref=sr_1_1?crid=V21E5IBT5775&keywords=thomas+cleary+art+of+war&qid=1653925771&sprefix=thomas+clear%2Caps%2C512&sr=8-1
 2. The Power Law https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/052555999X
-3. 
+3. Building Financial Models https://www.ebay.com/itm/363869389894?chn=ps&_trkparms=ispr%3D1&amdata=enc%3A1Ev0rtr3fTUu0FaKPJIj2QA39&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&itemid=363869389894&targetid=1584739239494&device=c&mktype=&googleloc=9019282&poi=&campaignid=15275224983&mkgroupid=131097072938&rlsatarget=pla-1584739239494&abcId=9300697&merchantid=118856961&gclid=CjwKCAjw2f-VBhAsEiwAO4lNePn6HozGZWXSiEkH99rGl_lcBtp6_na25a_l5yU7AB6FUR1eneWY3xoCJ0kQAvD_BwE
+4. Financial Statement Analysis and Security Valuation https://www.ebay.com/itm/354015122202?chn=ps&_trkparms=ispr%3D1&amdata=enc%3A1Z8brNRnbSsWYDKCH4L22gQ67&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&itemid=354015122202&targetid=1584571731043&device=c&mktype=&googleloc=9019282&poi=&campaignid=15275224983&mkgroupid=131097072938&rlsatarget=pla-1584571731043&abcId=9300697&merchantid=191373216&gclid=CjwKCAjw2f-VBhAsEiwAO4lNeERPZb_9dDu54fU8mQ5QGgvn6abkAq8Hswh083qedxDHWu-ogYnirBoCZLkQAvD_BwE
+5. 

@@ -1,0 +1,5 @@
+- *net income plus amortization and depreciation minus normal capital expenditures*
+- To fine tune owner earnings, you should also subtract from reported net income:
+	- any costs of granting stock options, which divert earnings away from existing shareholders into the hands of new inside owners
+	- any "unusual", "nonrecurring", or "extraordinary" charges
+	- any "income" from the compnay's pension fund

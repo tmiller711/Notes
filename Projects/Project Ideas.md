@@ -9,6 +9,7 @@
 	- My own OS
 	- Video streaming / YouTube clone
 	- Stock market replica
+	- Create a messaging website using Django
 
 - Done:
 	- Game of Life is C

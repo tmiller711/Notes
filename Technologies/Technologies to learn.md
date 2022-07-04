@@ -1,5 +1,5 @@
 Learning:
-	1. [[Rust]]
+	1. Rust
 
 To Learn:
 	1. Raspberry PI
@@ -8,3 +8,4 @@ To Learn:
 	4. Data structures
 	5. Algorithms
 	6. VIM
+	7. Django

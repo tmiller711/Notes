@@ -16,7 +16,8 @@
 	- Confidence in a stock
 - General stuff about the company like how it makes money, their future plans, 
 - How does a company make money? what are factors that can affect how they make money? what events that have happened will affect earnings?
-
+- 
+use moodys to see the ratings on the companys debt
 1. Learn about the company
 	- What they do
 	- How they make money

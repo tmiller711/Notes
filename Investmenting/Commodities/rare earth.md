@@ -1,0 +1,1 @@
+- Include cerium, langthanum, neodynium, and eurpoium

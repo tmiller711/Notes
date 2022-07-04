@@ -1,0 +1,15 @@
+- Once you exit a trade pause the sim and fill this out and then continue the day without analyzing the market while paused
+- Day 1
+	- Market Date: 6/30/2022
+	- Account number: 
+	- Starting account balance: $1000
+	- Num of trades:
+	- Trade 1:
+		- Strategy/ Reason for trade: [[Wick Test]]
+		- P/L: 
+		- Length of Trade:
+		- Mistakes/Takeaway: 
+	- Trading Time: starttime - endtime
+	- Overall Mistakes/lessons/takeaways:
+		1. blah
+	- Ending account balance: $
